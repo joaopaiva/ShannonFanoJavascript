@@ -1,5 +1,7 @@
 # Compactação de textos utilizando Shannon-Fano
 
+Veja o código em funcionamento:
+https://joaopaiva.github.io/ShannonFanoJavascript/SF.html
 
 ## O algoritmo de Shannon-Fano
 O algoritmo de Shannon-Fano trata-se de um algoritmo de codificação de entropia, uma vez que efetua uma compressão sem perdas, e corresponde ao melhoramento da eficiência de representação da informação digital, sendo independente do tipo de dados a comprimir, representando uma codificação da informação com códigos de comprimento variável.
