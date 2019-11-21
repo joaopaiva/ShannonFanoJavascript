@@ -14,4 +14,4 @@ O resultado é apresentado em código binário.
 ## E descompactar?
 
 Após a compactação, é gerado um dicionário/mapa com cada caractere e seu respectivo código binário.
-Ao inserir o resultado da compactação, processo é feito da forma inversa, substituindo cada bitcode por seu respse
+Ao inserir o resultado da compactação, processo é feito da forma inversa, substituindo cada código binário pelo seu respectivo valor.
